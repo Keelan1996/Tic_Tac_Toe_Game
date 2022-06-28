@@ -1,0 +1,1 @@
+C:\Users\Dell\source\repos\TicTacToeGame\TicTacToeGame\TicTacToeGame.UWP\TicTacToeGame.UWP.csproj;x86

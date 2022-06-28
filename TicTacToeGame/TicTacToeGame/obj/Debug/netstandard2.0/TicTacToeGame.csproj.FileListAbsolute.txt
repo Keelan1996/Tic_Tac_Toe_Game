@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\TicTacToeGame\TicTacToeGame\TicTacToeGame\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dell\source\repos\TicTacToeGame\TicTacToeGame\TicTacToeGame\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dell\source\repos\TicTacToeGame\TicTacToeGame\TicTacToeGame\obj\Debug\netstandard2.0\TicTacToeGame.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\TicTacToeGame\TicTacToeGame\TicTacToeGame\obj\Debug\netstandard2.0\TicTacToeGame.AssemblyInfo.cs
+C:\Users\Dell\source\repos\TicTacToeGame\TicTacToeGame\TicTacToeGame\obj\Debug\netstandard2.0\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\TicTacToeGame\TicTacToeGame\TicTacToeGame\obj\Debug\netstandard2.0\TicTacToeGame.dll
+C:\Users\Dell\source\repos\TicTacToeGame\TicTacToeGame\TicTacToeGame\obj\Debug\netstandard2.0\ref\TicTacToeGame.dll
+C:\Users\Dell\source\repos\TicTacToeGame\TicTacToeGame\TicTacToeGame\obj\Debug\netstandard2.0\TicTacToeGame.pdb
+C:\Users\Dell\source\repos\TicTacToeGame\TicTacToeGame\TicTacToeGame\bin\Debug\netstandard2.0\TicTacToeGame.deps.json
+C:\Users\Dell\source\repos\TicTacToeGame\TicTacToeGame\TicTacToeGame\bin\Debug\netstandard2.0\TicTacToeGame.dll
+C:\Users\Dell\source\repos\TicTacToeGame\TicTacToeGame\TicTacToeGame\bin\Debug\netstandard2.0\ref\TicTacToeGame.dll
+C:\Users\Dell\source\repos\TicTacToeGame\TicTacToeGame\TicTacToeGame\bin\Debug\netstandard2.0\TicTacToeGame.pdb
+C:\Users\Dell\source\repos\TicTacToeGame\TicTacToeGame\TicTacToeGame\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dell\source\repos\TicTacToeGame\TicTacToeGame\TicTacToeGame\obj\Debug\netstandard2.0\TicTacToeGame.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\TicTacToeGame\TicTacToeGame\TicTacToeGame\obj\Debug\netstandard2.0\TicTacToeGame.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\Dell\source\repos\HomeAssignment\HomeAssignment\main.c(16,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\HomeAssignment\HomeAssignment\main.c(19,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dell\source\repos\HomeAssignment\HomeAssignment\main.c(22,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HomeAssignment.vcxproj -> C:\Users\Dell\source\repos\HomeAssignment\Debug\HomeAssignment.exe
